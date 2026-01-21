@@ -1,2 +1,3 @@
 # spotify-clone
-replica of spotify 
+replica of spotify .
+
